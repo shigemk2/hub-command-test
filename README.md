@@ -1,0 +1,3 @@
+# hub-command-test
+
+ただのテスト。
